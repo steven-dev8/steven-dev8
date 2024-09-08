@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven
 - 👀 I'm interested in website and database development
 - 🌱 I’m currently learning HTML, CSS and Python
-- 📫 How to reach me @_stevenaraujo
+- 📫 How to reach me stevenndev8@gmail.com
 
 <!---
 steven-dev8/steven-dev8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
