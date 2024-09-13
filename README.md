@@ -2,9 +2,9 @@
 - 👀 I'm interested in website and database development
 - 🌱 I’m currently learning HTML, CSS and Python
 - 📫 How to reach me stevenndev8@gmail.com
-<br>
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-dev8&show_icons=true&theme=dark&locale=pt-br)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-dev8&layout=compact&theme=dark)
 
 ## Tecnologias que eu uso
