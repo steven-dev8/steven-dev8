@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Oi+Sou+Steven+Araújo+Aprendiz+Back-End+🛠️;Bem-vindo+ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Steven
-- 👀 I'm interested in website and database development
-- 🌱 I’m currently learning HTML, CSS and Python
+- 👀 I'm interested in back-end development
+- 🌱 I’m currently learning Python, HTML and CSS
 - 📫 How to reach me stevenndev8@gmail.com
 
 <p><img width="49%" src="https://github-readme-stats.vercel.app/api?username=steven-dev8&show_icons=true&theme=dark&locale=pt-br"> <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven-dev8&layout=compact&theme=dark"></p>
