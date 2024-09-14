@@ -14,11 +14,9 @@
 
 ## Tecnologias que eu uso
 
-<table>
-    <tr>
-        <td><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" width="101"></td>
-        <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"></td>
-        <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"></td>
-        <td><img src="https://cdn.discordapp.com/attachments/879885461903007756/1284407886071463956/799-7996506_black-mage-8-bit-final-fantasy-black-mage-removebg-preview.png?ex=66e6858f&is=66e5340f&hm=e9492bbc4155e4a88581e4eb16a5ee7a4b4948f2798e6dc8096b0b70529a9d23&" width="30px" alt="boneco dark fantasy"></td>
-    </tr>
-</table>
+<div>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" width="101">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
+    <img src="https://cdn.discordapp.com/attachments/879885461903007756/1284407886071463956/799-7996506_black-mage-8-bit-final-fantasy-black-mage-removebg-preview.png?ex=66e6858f&is=66e5340f&hm=e9492bbc4155e4a88581e4eb16a5ee7a4b4948f2798e6dc8096b0b70529a9d23&" width="25px" alt="boneco dark fantasy">
+</div>
