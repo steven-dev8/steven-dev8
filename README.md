@@ -15,3 +15,8 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
 </div>
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=steven-dev8&show_icons=true&theme=dark&locale=pt-br">
+    <img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif">
+</div>
