@@ -7,7 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-dev8&layout=compact&theme=dark)
 
-## Tecnologias que eu uso
+<html>
+<body>
 <div>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="101">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
@@ -21,3 +22,8 @@
 <div style="margin: -190px 0px 0px 460px">
     <img style="width: 400px; height: 200px"src="https://cdn.discordapp.com/attachments/879885461903007756/1284358708310048768/moldura-removebg-preview.png?ex=66e657c2&is=66e50642&hm=9e289ebe071b734edaa83b8dd89487606a99d112a868473eac4ddd2633d72207&.png">
 </div>
+</body>
+</html>
+
+
+## Tecnologias que eu uso
