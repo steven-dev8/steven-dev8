@@ -20,3 +20,8 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://cdn.discordapp.com/attachments/879885461903007756/1284407886071463956/799-7996506_black-mage-8-bit-final-fantasy-black-mage-removebg-preview.png?ex=66e6858f&is=66e5340f&hm=e9492bbc4155e4a88581e4eb16a5ee7a4b4948f2798e6dc8096b0b70529a9d23&" width="25px" alt="boneco dark fantasy">
 </div>
+
+## Ferramentas que eu uso
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![VScode](https://img.shields.io/badge/vscode-14354C?style=for-the-badge&logo=vscode&logoColor=white&bgcolor=darkblue)
+![Linux](https://img.shields.io/badge/linux-2E2E2E?style=for-the-badge&logo=vscode&logoColor=white)
