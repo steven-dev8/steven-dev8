@@ -8,6 +8,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven-dev8&layout=compact&theme=dark)
 </table>
 
-![Imagem](https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif)
+<img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif">
 
 ## Tecnologias que eu uso
