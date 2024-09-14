@@ -17,5 +17,5 @@
 </div>
 
 <div>
-    <img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" margin: -300px 0px 0px 0px>
+    <img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" style="margin: -200px 0px 0px 0px">
 </div>
