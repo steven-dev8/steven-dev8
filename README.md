@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Rust, TypeScript and Vue
 - 📫 How to reach me stevenndev8@gmail.com
 
-<p><img width="300px" src="https://github-readme-stats.vercel.app/api?username=steven-dev8&show_icons=true&theme=dark&locale=pt-br"> <img width="228px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven-dev8&layout=compact&theme=dark"></p>
+<p><img width="431px" src="https://github-readme-stats.vercel.app/api?username=steven-dev8&show_icons=true&theme=dark&locale=pt-br"> <img width="328px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven-dev8&layout=compact&theme=dark"></p>
 
 <div>
 
