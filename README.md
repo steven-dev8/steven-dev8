@@ -2,16 +2,14 @@
 
 - 👋 Hi, I’m Steven/Carlos
 - 👀 I'm interested in back-end development
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Rust, TypeScript and Vue
 - 📫 How to reach me stevenndev8@gmail.com
 
-<p><img width="49%" src="https://github-readme-stats.vercel.app/api?username=steven-dev8&show_icons=true&theme=dark&locale=pt-br"> <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven-dev8&layout=compact&theme=dark"></p>
+<p><img width="600px" src="https://github-readme-stats.vercel.app/api?username=steven-dev8&show_icons=true&theme=dark&locale=pt-br"> <img width="455px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven-dev8&layout=compact&theme=dark"></p>
 
-## Tools and technologies
+<div>
 
-<div align="center">
-
-  <h3>💻 Technologies</h3>
+  <h1>💻 Technologies</h1>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JS" width="50" height="50">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TS" width="50" height="50">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="50" height="50">
@@ -33,7 +31,7 @@
 
   <br><br>
 
-  <h3>📚 Databases</h3>
+  <h1>📚 Databases</h1>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" width="50" height="50">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" width="50" height="50">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" width="50" height="50">
@@ -41,7 +39,7 @@
 
   <br><br>
 
-  <h3>🌐 Hosts / Services / OS</h3>
+  <h1>🌐 Hosts / Services / OS</h1>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" width="50" height="50">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png" alt="Arch" width="50" height="50">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" width="50" height="50">
