@@ -1,7 +1,5 @@
 <img src="https://i.pinimg.com/originals/42/83/6a/42836adf0826dbfa27034fc55566d3a2.gif" width="1000px" height="280px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=Oi+Sou+Steven+Araújo+Aprendiz+Back-End+🛠️;Bem-vindo+ao+Meu+GitHub+:%29)](https://git.io/typing-svg)
-
 - 👋 Hi, I’m Steven/Carlos
 - 👀 I'm interested in back-end development
 - 🌱 I’m currently learning Python, HTML and CSS
